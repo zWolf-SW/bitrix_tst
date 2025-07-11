@@ -1,0 +1,12 @@
+{
+    "name": "tanais/yandexcaptcha",
+    "require-dev": {
+        "symfony/var-dumper": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tanais\\YandexCaptcha\\": "src/"
+        }
+    },
+    "require": {}
+}
